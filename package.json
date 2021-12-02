@@ -1,6 +1,7 @@
 {
   "name": "vue-proj",
   "version": "0.1.0",
+  "author": "Nathan Steward",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
